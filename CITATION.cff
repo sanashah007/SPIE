@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Sana Shah"
+  given-names: "Sana Shah"
+  orcid: "https://orcid.org/0000-0001-5309-8142"
+title: "SPIE"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-12-20
+url: "https://github.com/sanashah007/SPIE"
