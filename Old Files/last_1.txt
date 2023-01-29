@@ -1,0 +1,767 @@
+Stopwatch
+00:01:08.469
+Stopwatoh
+Stop
+Split
+00:01:08.644
++/-
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
+-/+
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENWARE
+00:01:03.733
+
+Stopwatch
+00:01:07.658
+Stopwatch
+Stop
+Split
+00:01:07.832
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
++/-
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENWARE
+00:01:03.733
+
+Stopwatch
+00:01:09.340
+Stopwatoh
+Stop
+Split
+00:01:09.515
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
+00:01:03.733
++/-
+Elapsed time
+Comment
+00:01:02.515
+ALIENWARE
+00:01:03.733
+
+Stopwatch
+00:01:10.268
+Stopwatch
+Stop
+Split
+00:01:10.442
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
++/-
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENWARE
+00:01:03.733
+
+Stopwatch
+00:01:11.313
+Stopwatoh
+Stop
+Split
+00:01:11.487
+Elapsed time
+Comment
++/-
+Stop
+Split
+00:01:02.515
+00:01:03.733
+Elapsed time
+Comment
+00:01:02.515
+ALIENWARE
+00:01:03.733
+
+Stopwatoh
+00:01:12.302
+Stopwatoh
+Stop
+Split
+00:01:12.477
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
++/-
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENW
+00:01:03.733
+
+Stopwatch
+00:01:13.173
+CÜpm3aopm
+Stop
+Split
+00:01:13.289
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
++/-
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENWARE
+00:01:03.733
+
+Stopwatch
+00:01:14.332
+Stopwatoh
+Stop
+Split
+00:01:14.448
++/-
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
++/-
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENWARE
+00:01:03.733
+Mide우
+
+Stopwatch
+00:01:15.259
+Stopwatch
+Stop
+Split
+00:01:15.432
+Elapsed time
+Comment
++/-
+Stop
+Split
+00:01:02.515
++/-
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENWARE
+00:01:03.733
+
+Stopwatoh
+00:01:16.303
+Stopwatoh
+Stop
+Split
+00:01:16.478
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
+00:01:03.733
+Elapsed time
+Comment
+00:01:02.515
+ALIENWARE
+00:01:03.733
+
+32 PM Sum Oet 18
+Stopwatoh
+00:01:17.349
+CÜpm3aopm
+Stop
+Split
+00:01:17.523
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
++/-
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENW
+00:01:03.733
+VideSapur
+
+Stopwatch
+00:01:18.336
+いtOUE⑪d0丁
+Stop
+Split
+00:01:18.511
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENWARE
+00:01:03.733
+
+Stopwatch
+00:01:19.324
+Stopwatch
+Stop
+Split
+00:01:19.499
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
+00:01:03.733
+Elapsed time
+Comment
+00:01:02.515
+ALIENWARE
+00:01:03.733
+
+632 PM
+Stopwatch
+00:01:20.255
+Stopwatoh
+Stop
+Split
+00:01:20.488
+Elapsed time
+Comment
++/-
+Stop
+Split
+00:01:02.515
++/-
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENWARE
+00:01:03.733
+
+いtOUE⑪tn丁
+00:01:21.301
+Stopwatoh
+Stop
+Split
+00:01:21.475
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
+00:01:03.733
++/-
+Elapsed time
+Comment
+00:01:02.515
+ALIENWARE
+00:01:03.733
+
+Stopwatch
+00:01:22.289
+Stopwatch
+Stop
+Split
+00:01:22.522
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENWARE
+00:01:03.733
+
+Stopwatch
+00:01:23.335
+Stopwatoh
+Stop
+Split
+00:01:23.510
+Elapsed time
+Comment
++/-
+Stop
+Split
+00:01:02.515
+00:01:03.733
+Elapsed time
+Comment
+00:01:02.515
+ALIENW
+00:01:03.733
+
+Stopwatoh
+00:01:24.321
+Stopwatch
+Stop
+Split
+00:01:24.495
+Elapsed time
+Comment
++/-
+Stop
+Split
+00:01:02.515
+00:01:03.733
++/-
+Elapsed time
+Comment
+00:01:02.515
+ALIENWARE
+00:01:03.733
+
+6:32 PM Sun Oct 1
+Stopwatch
+00:01:25.369
+Stopwatch
+Stop
+Split
+00:01:25.485
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
+00:01:03.733
++/-
+Elapsed time
+Comment
+00:01:02.515
+ALIENWARE
+00:01:03.733
+
+Stopwatch
+00:01:26.533
+Stopwatch
+Stop
+Split
+00:01:26.650
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
+00:01:03.733
+-/+
+Elapsed time
+Comment
+00:01:02.515
+ALIENWAR
+00:01:03.733
+
+Stopwatch
+00:01:27.581
+Stopwatoh
+Stop
+Split
+00:01:27.698
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
+-/+
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENWARE
+00:01:03.733
+
+Stopwatoh
+00:01:28.687
+Stopwatch
+Stop
+Split
+00:01:28.862
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
+-/+
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENWAR
+00:01:03.733
+
+Stopwatoh
+00:01:30.318
+Stopwatoh
+Stop
+Split
+00:01:30.491
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
+-/+
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+00:01:03.733
+ALIENWARE
+
+mtOUEшto丁
+Split
+00:01:31.364
+Stopwatch
+Stop
+00:01:31.481
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
++/-
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENWARE
+00:01:03.733
+업공방
+
+Stopwatoh
+00:01:32.295
+Stopwatoh
+Stop
+Split
+00:01:32.469
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+00:01:03.733
+
+Stopwatoh
+00:01:33.281
+Stopwatch
+Stop
+Split
+00:01:33.456
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
++/-
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENWARE
+00:01:03.733
+
+Stopwatoh
+00:01:34.387
+Stopwatch
+Stop
+Split
+00:01:34.562
+Elapsed time
+Comment
++/-
+Stop
+Split
+00:01:02.515
++/-
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+00:01:03.733
+ALIENWAR
+
+Stopwatch
+00:01:35.434
+Stopwatch
+Stop
+Split
+00:01:35.609
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
++/-
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENWAR
+00:01:03.733
+
+Stopwatch
+00:01:36.541
+Stopwatoh
+Stop
+Split
+00:01:36.716
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
++/-
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+00:01:03.733
+ALIENWARE
+
+Stopwatch
+00:01:37.412
+Stopwatch
+Stop
+Split
+00:01:37.588
+Elapsed time
+Comment
++/-
+Stop
+Split
+00:01:02.515
+十／-
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENWAR
+00:01:03.733
+
+Stopwatch
+00:01:38.342
+Stopwatch
+Stop
+Split
+00:01:38.517
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
++/-
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENWARE
+00:01:03.733
+
+Stopwatch
+00:01:39.329
+Stopwatch
+Stop
+Split
+00:01:39.503
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
++/-
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENWAR
+00:01:03.733
+
+COpmЗaopm
+Split
+00:01:40.317
+Stopwatoh
+Stop
+00:01:40.492
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
++/-
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENWARE
+00:01:03.733
+
+Stopwatoh
+00:01:41.306
+Stopwatoh
+Stop
+Split
+00:01:41.422
+Elapsed time
+Comment
++/-
+Stop
+Split
+00:01:02.515
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENWARE
+00:01:03.733
+유우님r
+
+Stopwatch
+00:01:42.352
+Stopwatoh
+Stop
+Split
+00:01:42.468
++/-
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENWAR
+00:01:03.733
+
+Stopwatoh
+00:01:43.338
+Stopwatch
+Stop
+Split
+00:01:43.512
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
+00:01:03.733
++/-
+Elapsed time
+Comment
+00:01:02.515
+ALIENW
+00:01:03.733
+
+Stopwatch
+00:01:44.325
+Stopwatch
+Stop
+Split
+00:01:44.498
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
++/-
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+00:01:03.733
+
+Stopwatoh
+00:01:45.251
+Stopwatch
+Stop
+Split
+00:01:45.427
+Elapsed time
+Comment
+-/+
+Stop
+Split
+00:01:02.515
+00:01:03.733
+-/+
+Elapsed time
+Comment
+00:01:02.515
+ALIENWARE
+00:01:03.733
+
+Stopwatch
+00:01:46.239
+Stopwatch
+Stop
+Split
+00:01:46.414
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
++/-
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+00:01:03.733
+
+Stopwatch
+00:01:47.286
+Stopwatch
+Stop
+Split
+00:01:47.402
+Elapsed time
+Comment
+Stop
+Split
+00:01:02.515
++/-
+Elapsed time
+Comment
+00:01:03.733
+00:01:02.515
+ALIENWAR
+00:01:03.733
+
